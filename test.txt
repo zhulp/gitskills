@@ -1,1 +1,1 @@
-New text file.
+New text file, with other content.
